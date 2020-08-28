@@ -4,7 +4,7 @@ Your robot has been kidnapped and transported to a new location! Luckily it has 
 
 [//]: # (Image References)
 
-[image1]: ./images/accuracy.png "Accuracy"
+[image1]: ./accuracy.png "Accuracy"
 
 ---
 
